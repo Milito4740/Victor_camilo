@@ -1,0 +1,7 @@
+body{
+    background-image: url(img.jfif);
+}
+#email {color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+.container{ margin-top: 300px;}
